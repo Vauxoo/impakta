@@ -1,0 +1,4 @@
+[submodule "impakta"]
+	path = impakta
+	url = git@git.vauxoo.com:vauxoo/impakta.git
+	branch = 17.0
