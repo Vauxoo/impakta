@@ -2,3 +2,7 @@
 	path = impakta
 	url = git@git.vauxoo.com:vauxoo/impakta.git
 	branch = 17.0
+[submodule "sale-reporting"]
+	path = sale-reporting
+	url = git@github.com:Vauxoo/sale-reporting.git
+	branch = 17.0
