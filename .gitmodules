@@ -2,3 +2,7 @@
 	path = impakta
 	url = git@git.vauxoo.com:vauxoo/impakta.git
 	branch = 17.0
+[submodule "sale-engineering"]
+	path = sale-engineering
+	url = git@git.vauxoo.com:vauxoo-dev/sale-engineering.git
+	branch = 17.0-migration-sale-engineering-yenni
