@@ -6,3 +6,6 @@
 	path = sale-engineering
 	url = git@git.vauxoo.com:vauxoo-dev/sale-engineering.git
 	branch = 17.0-migration-sale-engineering-yenni
+[submodule "sale-reporting"]
+	path = sale-reporting
+	url = git@github.com:Vauxoo/sale-reporting.git
