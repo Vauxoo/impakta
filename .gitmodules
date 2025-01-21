@@ -6,3 +6,7 @@
 	path = sale-reporting
 	url = git@github.com:Vauxoo/sale-reporting.git
 	branch = 17.0
+[submodule "sale-engineering"]
+	path = sale-engineering
+	url = git@git.vauxoo.com:vauxoo/sale-engineering.git
+	branch = 17.0
