@@ -28,8 +28,8 @@
 	branch = 17.0
 [submodule "xunnel-account"]
 	path = xunnel-account
-	url = https://git.vauxoo.com/vauxoo/xunnel-account.git
-	branch = 17.0
+	url = git@git.vauxoo.com:vauxoo-dev/xunnel-account.git
+	branch = 17.0-JVegaB-14052026-xml-download-date-range
 [submodule "l10n-mx-edi-payment-policy"]
 	path = l10n-mx-edi-payment-policy
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-payment-policy.git
